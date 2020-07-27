@@ -1,0 +1,11 @@
+C:\Users\2ndyrGroupA\Desktop\ASPDOTNET\PrinceInformationSystem\ProductData\bin\Debug\netcoreapp2.1\ProductData.deps.json
+C:\Users\2ndyrGroupA\Desktop\ASPDOTNET\PrinceInformationSystem\ProductData\bin\Debug\netcoreapp2.1\ProductData.dll
+C:\Users\2ndyrGroupA\Desktop\ASPDOTNET\PrinceInformationSystem\ProductData\obj\Debug\netcoreapp2.1\ProductData.csproj.CoreCompileInputs.cache
+C:\Users\2ndyrGroupA\Desktop\ASPDOTNET\PrinceInformationSystem\ProductData\obj\Debug\netcoreapp2.1\ProductData.AssemblyInfoInputs.cache
+C:\Users\2ndyrGroupA\Desktop\ASPDOTNET\PrinceInformationSystem\ProductData\obj\Debug\netcoreapp2.1\ProductData.AssemblyInfo.cs
+C:\Users\2ndyrGroupA\Desktop\ASPDOTNET\PrinceInformationSystem\ProductData\obj\Debug\netcoreapp2.1\ProductData.csprojAssemblyReference.cache
+C:\Users\2ndyrGroupA\Desktop\ASPDOTNET\PrinceInformationSystem\ProductData\bin\Debug\netcoreapp2.1\ProductData.runtimeconfig.json
+C:\Users\2ndyrGroupA\Desktop\ASPDOTNET\PrinceInformationSystem\ProductData\bin\Debug\netcoreapp2.1\ProductData.runtimeconfig.dev.json
+C:\Users\2ndyrGroupA\Desktop\ASPDOTNET\PrinceInformationSystem\ProductData\bin\Debug\netcoreapp2.1\ProductData.pdb
+C:\Users\2ndyrGroupA\Desktop\ASPDOTNET\PrinceInformationSystem\ProductData\obj\Debug\netcoreapp2.1\ProductData.dll
+C:\Users\2ndyrGroupA\Desktop\ASPDOTNET\PrinceInformationSystem\ProductData\obj\Debug\netcoreapp2.1\ProductData.pdb
